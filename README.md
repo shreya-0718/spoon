@@ -22,4 +22,4 @@ Once installed, you can run Spoon with:
 python -m spoon
 ```
 
-Made with ❤️ by @shreyaluu
+Made with ❤️ (and spoons 🥄) by @shreyaluu

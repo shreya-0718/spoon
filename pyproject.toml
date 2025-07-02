@@ -1,6 +1,6 @@
 [project]
 name = "spoon"
-version = "0.1.0"
+version = "0.1.3"
 description = "A poetic notifier that delivers a spoonful of thought"
 readme = "README.md"
 authors = [
