@@ -34,7 +34,10 @@ def main():
 
 if __name__ == "__main__":
     main()
-    schedule.every(1).minutes.do(main)  # You can change this to .minutes for testing
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
+    schedule.every(1).hours.do(main)  # You can change this to .minutes for testing
+    try:
+        while True:
+            schedule.run_pending()
+            time.sleep(1)
+    except KeyboardInterrupt:
+        print("🌙 Spoon has gone quiet. Until next time.")
