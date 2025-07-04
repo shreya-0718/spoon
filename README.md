@@ -1,14 +1,5 @@
 # Spoon!
-## A command-line friend that gives you a spoonful of thought :D
-
-## ✨ Features
-
-- Sends a random inspirational quote or poetic message
-- Posts to your [ntfy.sh](https://ntfy.sh) notification channel
-- Runs on a schedule (e.g. every hour) 
-
-
-## 📦 Installation
+## a command-line friend that gives you a spoonful of thought every hour :D
 
 To install from [Test PyPI](https://test.pypi.org/project/spoon/):
 
